@@ -1,0 +1,6 @@
+{
+  "name": "LuxeMart - Premium Shopify E-Commerce",
+  "description": "Premium Shopify-style e-commerce store with 89 products, isolated image catalogs, responsive collection grid, 3-page pagination, and individual product detail pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
